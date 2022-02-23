@@ -1,2 +1,2 @@
-#My shell readme file
+My shell readme file
 
